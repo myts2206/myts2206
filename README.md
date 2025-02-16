@@ -67,6 +67,6 @@ I am a passionate AI/ML researcher with experience in deep learning, computer vi
 - 🌐 **Portfolio**: [GitHub](https://github.com/myts2206)  
 - 🔗 **LinkedIn**: [Srihith Reddy](https://www.linkedin.com/in/srihith-reddy-53555a126/)  
 - 📧 **Email**: srihithreddy2206@gmail.com
-- **Personal website: [Srihith](https://myts2206.github.io/Personal/)
+- **Personal website**: [Srihith](https://myts2206.github.io/Personal/)
 
 ⚡ **Fun Fact**: I enjoy playing the guitar and exploring new AI/ML architectures in my free time!  
