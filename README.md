@@ -29,6 +29,7 @@ I am a passionate AI/ML researcher with experience in deep learning, computer vi
 
 ### 🔨 Projects    
 - **SnapBot** – Automated social media interaction & task automation using Selenium. Check it out [Click](https://github.com/myts2206/SnapStreaks-)
+- Customization of Large Language Models using Ncert Textbooks. [Click](https://github.com/myts2206/Customizing-Large-Language-Models-for-NCERT-Textbooks)
 - **AI Chatbot** – NLP-powered chatbot with real-time sentiment analysis  
 - **Financial Document Classification** – Deep learning-based document classifier for financial statements  
 
