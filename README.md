@@ -30,8 +30,30 @@ I am a passionate AI/ML researcher with experience in deep learning, computer vi
 ### 🔨 Projects    
 - **SnapBot** – Automated social media interaction & task automation using Selenium. Check it out [Click](https://github.com/myts2206/SnapStreaks-)
 - Customization of Large Language Models using Ncert Textbooks. [Click](https://github.com/myts2206/Customizing-Large-Language-Models-for-NCERT-Textbooks)
-- **AI Chatbot** – NLP-powered chatbot with real-time sentiment analysis  
-- **Financial Document Classification** – Deep learning-based document classifier for financial statements  
+- **AI Chatbot** – NLP-powered chatbot with real-time sentiment analysis. [click](https://github.com/myts2206/website-based-chatbot-using-NLP)
+- **Financial Document Classification** – Deep learning-based document classifier for financial statements()
+- **Detection of Kidney Stones using machine learning**- CNN sota based classsification to detect stones in kidneys using ultrasound. [click](https://github.com/myts2206/Kidney-Stone-Detection)
+
+### 📄 Publications  
+1. **Customizing Large Language Models for NCERT Textbooks and Offline Interface Development**  
+   - *Published in IJRSR Journal (Aug 2024)*  
+   - DOI: [10.24327/ijrsr.20241504.0873](http://dx.doi.org/10.24327/ijrsr.20241504.0873)  
+   - [GitHub Repository](https://github.com/myts2206/Customizing-Large-Language-Models-for-NCERT-Textbooks)  
+
+2. **A Survey on Graph Neural Networks and Its Applications in Various Domains**  
+   - *Published in SN Computer Science (Dec 2024)*  
+   - DOI: [10.1007/s42979-024-03543-4](https://doi.org/10.1007/s42979-024-03543-4)  
+
+3. **Synthesis and Antioxidant Activity of Gallic Acid-Based Fluorescent Benzothiazole Analogue**  
+   - *Published in Journal of Molecular Chemistry (Aug 2024)*  
+   - DOI: [10.1016/j.molstruc.2024.139819](https://doi.org/10.1016/j.molstruc.2024.139819)  
+
+4. **Maintaining Snapstreaks on Snapchat Using Selenium and a Random Forest Classifier for XPath Prediction of Clickable Elements**  
+   - *Under review at Journal of Automation and Intelligence by Elsevier (Nov 2024)*  
+
+5. **Modelling and Performance Analysis of PEM Fuel Cells Using Machine Learning Techniques**  
+   - *Accepted and presented at 2025 International Conference on Intelligent and Innovative Technologies in Computing, Electrical, and Electronics (Sep 2024)*
+
 
 ### 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -44,6 +66,7 @@ I am a passionate AI/ML researcher with experience in deep learning, computer vi
 ### 📫 Connect with Me  
 - 🌐 **Portfolio**: [GitHub](https://github.com/myts2206)  
 - 🔗 **LinkedIn**: [Srihith Reddy](https://www.linkedin.com/in/srihith-reddy-53555a126/)  
-- 📧 **Email**: srihithreddy2206@gmail.com  
+- 📧 **Email**: srihithreddy2206@gmail.com
+- **Personal website: [Srihith](https://myts2206.github.io/Personal/)
 
 ⚡ **Fun Fact**: I enjoy playing the guitar and exploring new AI/ML architectures in my free time!  
