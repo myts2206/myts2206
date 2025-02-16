@@ -31,7 +31,7 @@ I am a passionate AI/ML researcher with experience in deep learning, computer vi
 - **SnapBot** – Automated social media interaction & task automation using Selenium. Check it out [Click](https://github.com/myts2206/SnapStreaks-)
 - Customization of Large Language Models using Ncert Textbooks. [Click](https://github.com/myts2206/Customizing-Large-Language-Models-for-NCERT-Textbooks)
 - **AI Chatbot** – NLP-powered chatbot with real-time sentiment analysis. [click](https://github.com/myts2206/website-based-chatbot-using-NLP)
-- **Financial Document Classification** – Deep learning-based document classifier for financial statements()
+- **Financial Document Classification** – Deep learning-based document classifier for financial statements. [click](https://github.com/myts2206/Classification-of-Financial-documents-using-machine-learning)
 - **Detection of Kidney Stones using machine learning**- CNN sota based classsification to detect stones in kidneys using ultrasound. [click](https://github.com/myts2206/Kidney-Stone-Detection)
 
 ### 📄 Publications  
