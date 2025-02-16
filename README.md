@@ -28,7 +28,7 @@ I am a passionate AI/ML researcher with experience in deep learning, computer vi
 - **Research Intern** @ **CDPG, IISc Bangalore** – Real-time GPS-based Bus Tracking System  
 
 ### 🔨 Projects    
-- **SnapBot** – Automated social media interaction & task automation using Selenium
+- **SnapBot** – Automated social media interaction & task automation using Selenium. Check it out [Click](https://github.com/myts2206/SnapStreaks-)
 - **AI Chatbot** – NLP-powered chatbot with real-time sentiment analysis  
 - **Financial Document Classification** – Deep learning-based document classifier for financial statements  
 
