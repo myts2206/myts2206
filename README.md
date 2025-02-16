@@ -37,7 +37,7 @@ I am a passionate AI/ML researcher with experience in deep learning, computer vi
 ### 📄 Publications  
 1. **Customizing Large Language Models for NCERT Textbooks and Offline Interface Development**  
    - *Published in IJRSR Journal (Aug 2024)*  
-   - DOI: [10.24327/ijrsr.20241504.0873](http://dx.doi.org/10.24327/ijrsr.20241504.0873)  
+   - [Link](https://recentscientific.com/customizing-large-language-models-ncert-textbooks-and-development-interface-which-works-offline)  
    - [GitHub Repository](https://github.com/myts2206/Customizing-Large-Language-Models-for-NCERT-Textbooks)  
 
 2. **A Survey on Graph Neural Networks and Its Applications in Various Domains**  
