@@ -22,9 +22,9 @@ I am a passionate AI/ML researcher with experience in deep learning, computer vi
 - 📖 Research Publications in Elsevier, SN Computer Science, and International Conferences  
 
 ### 💼 Work Experience  
-- **AI & Systems Research Intern** @ **IISc Bangalore** – Edge AI & Neuromorphic Computing  
+- **AI & Systems Research Intern** @ **IISc Bangalore** – Federated learning and Model dev  
 - **Research Intern** @ **AUT KEDRI, New Zealand** – Spiking Neural Networks & Multimodal Memory Models  
-- **Data Science Intern** @ **GlobalLogic** – AI-powered automation for LogQL transformation  
+- **Data Science Intern** @ **GlobalLogic** – FineTuning LLMs for conversion of splunk queries into Grafana LogQL 
 - **Research Intern** @ **CDPG, IISc Bangalore** – Real-time GPS-based Bus Tracking System  
 
 ### 🔨 Projects    
