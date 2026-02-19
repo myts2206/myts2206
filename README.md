@@ -1,9 +1,13 @@
 # 👋 Hi, I'm P Srihith Reddy  
 
 ### 🚀 About Me  
-I am a passionate AI/ML researcher with experience in deep learning, computer vision, and edge AI. I love solving real-world problems using technology and have multiple patents and publications in AI-driven automation and IoT applications.  
+I am a passionate AI/ML researcher with experience in retrival augmented generation, MCPs, buiding AI agents, deep learning, computer vision, and edge AI. I love solving real-world problems using technology and have multiple patents and publications in AI-driven automation and IoT applications. Currently building a SOTA model for text to sql. Happy to colaborate 
 
 🔬 **Research Interests**:  
+- Retrival augmented generation
+- text to SQL
+- Natural Language processing
+- Building AI agents
 - ML Model developments
 - Gen AI
 - Deep learning
